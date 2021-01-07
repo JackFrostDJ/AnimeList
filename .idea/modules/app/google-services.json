@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "156277326974",
+    "firebase_url": "https://fridgecleanse-default-rtdb.firebaseio.com",
+    "project_id": "fridgecleanse",
+    "storage_bucket": "fridgecleanse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156277326974:android:32efe330ac49df0bac442f",
+        "android_client_info": {
+          "package_name": "com.example.fridgecleanse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156277326974-76lhd64fhafedkks895prrjsbv3blft6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fridgecleanse",
+            "certificate_hash": "efa3379b8ce224289f1503c72777c049d09e0a95"
+          }
+        },
+        {
+          "client_id": "156277326974-p8a9bi0j057mp6meqhivudu589rfvls4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmwrg50263Ecjvz1r1ranMOaelBK5GyEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156277326974-p8a9bi0j057mp6meqhivudu589rfvls4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
